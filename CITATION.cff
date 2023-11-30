@@ -1,0 +1,30 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.1
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "faecalsludgekampala" in publications use:'
+type: dataset
+title: 'faecalsludgekampala: What the Package Does (One Line, Title Case)'
+version: 0.0.0.9000
+abstract: What the package does (one paragraph).
+authors:
+- family-names: Last
+  given-names: First
+  email: first.last@example.com
+  orcid: https://orcid.org/YOUR-ORCID-ID
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+- family-names: Bannert
+  given-names: Matt
+  email: bannert@kof.ethz.ch
+contact:
+- family-names: Last
+  given-names: First
+  email: first.last@example.com
+  orcid: https://orcid.org/YOUR-ORCID-ID
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
