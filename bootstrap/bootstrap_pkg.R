@@ -49,13 +49,9 @@ generate_dataset_documentation("faecalsludge",
                                dataset_title = "it stinks")
 
 
-
-
 # Initialize git once all the files are there.
+# Be aware that this triggers an RStudio restart.
 init_git()
-
-
-
 
 
 
@@ -63,6 +59,7 @@ init_git()
 
 
 # openwashdata GitHub
+debug(push_package)
 push_package()
 
 
